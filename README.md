@@ -10,5 +10,5 @@
 ### Blogger
 <p>Postingan: <a href="https://www.blogger.com/blog/post/edit/5445372653386280255/4877546649136413930">Edit</a></p>
 <ul>
-<li>https: //cdn.jsdelivr.net/gh/gameshaxor/IndianTruckSimulator3D/<a href="https://github.com/gameshaxor/IndianTruckSimulator3D/edit/master/info.js">blogger.js</a></li>
+<li>https: //cdn.jsdelivr.net/gh/gameshaxor/IndianTruckSimulator3D/<a href="https://github.com/gameshaxor/IndianTruckSimulator3D/edit/master/info.js">info.js</a></li>
 </ul>
