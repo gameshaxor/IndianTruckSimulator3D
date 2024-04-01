@@ -1,16 +1,11 @@
 // Function untuk menampilkan dialog konfirmasi
 function showConfirmationDialog() {
-    // Menyimpan menu yang aktif sebelum dialog muncul
-    previousActiveMenu = document.querySelector('.topnav a.active');
     document.getElementById("confirmationDialog").style.display = "flex";
 }
 
-// Function untuk membatalkan dialog dan mengatur kembali menu yang aktif sebelumnya
+// Function untuk membatalkan dialog dan menyembunyikan dialog konfirmasi
 function cancelConfirmation() {
     hideConfirmationDialog();
-    // Mengatur kembali menu yang aktif ke menu "Tema"
-    var temaMenu = document.querySelector('.topnav a[href="javascript:void(0);"]');
-    setActive(temaMenu);
 }
 
 // Function untuk menyembunyikan dialog konfirmasi
