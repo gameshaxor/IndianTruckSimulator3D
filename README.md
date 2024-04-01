@@ -6,6 +6,8 @@
 <li><strong>Demo:</strong> <a href="https://games.haxorai.com/2024/03/indian-truck-simulator-3d.html">Play Games</a></li>  
 <li><strong>Fullscreen:</strong> <a href="https://gameshaxor.github.io/IndianTruckSimulator3D/">index.html</a></li>  
 </ul>
+
+### Blogger
 <p>Postingan: <a href="https://www.blogger.com/blog/post/edit/5445372653386280255/4877546649136413930">Edit</a></p>
 <ul>
 <li>https: //cdn.jsdelivr.net/gh/gameshaxor/IndianTruckSimulator3D/<a href="https://cdn.jsdelivr.net/gh/gameshaxor/IndianTruckSimulator3D/">index.css</a></li>  
